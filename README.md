@@ -4,13 +4,13 @@ This project is a task for backend/fullstack internship at Dynatrace.
 
 # Server
 To start the server clone the repo, open a new terminal window and follow the commands:
-$ cd server
-$ npm install
-$ npm run compile
-$ npm start
+> cd server <br>
+> npm install <br>
+> npm run compile <br>
+> npm start <br>
 
 # Web application
 To start the web app open another terminal window and follow the commands:
-$ cd web
-$ npm install
-$ npm start
+> cd web <br>
+> npm install <br>
+> npm start <br>
